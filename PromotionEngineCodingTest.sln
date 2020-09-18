@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionEngine.Domain", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionEngine.Infrastructure", "PromotionEngine.Infrastructure\PromotionEngine.Infrastructure.csproj", "{B8F6462E-ADC6-4BA5-96D6-C49242107AFE}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessRulesEngine", "BusinessRulesEngine\BusinessRulesEngine.csproj", "{6CD49E41-8C36-4190-9C27-B060CFACE550}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B8F6462E-ADC6-4BA5-96D6-C49242107AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8F6462E-ADC6-4BA5-96D6-C49242107AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8F6462E-ADC6-4BA5-96D6-C49242107AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD49E41-8C36-4190-9C27-B060CFACE550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD49E41-8C36-4190-9C27-B060CFACE550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD49E41-8C36-4190-9C27-B060CFACE550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD49E41-8C36-4190-9C27-B060CFACE550}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
