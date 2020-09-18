@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessRulesEngine", "Busi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionEngine.Application", "PromotionEngine.Application\PromotionEngine.Application.csproj", "{16D1F69C-F43F-4F2B-8A62-09FB572A4E4E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionEngine.Tests", "PromotionEngine.Tests\PromotionEngine.Tests.csproj", "{7BB48C48-9567-4B60-8D1F-80AD6A3AAFD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{16D1F69C-F43F-4F2B-8A62-09FB572A4E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16D1F69C-F43F-4F2B-8A62-09FB572A4E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16D1F69C-F43F-4F2B-8A62-09FB572A4E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB48C48-9567-4B60-8D1F-80AD6A3AAFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB48C48-9567-4B60-8D1F-80AD6A3AAFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB48C48-9567-4B60-8D1F-80AD6A3AAFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB48C48-9567-4B60-8D1F-80AD6A3AAFD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
